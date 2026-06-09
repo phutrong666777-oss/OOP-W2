@@ -26,6 +26,9 @@ The project demonstrates fundamental OOP concepts through the implementation of 
 - Sort student grade
 - print student list
 
+## UML Diagram
+![UML](Class%20Diagram2.jpg)
+
 ## Project Structure
 
 ```text
