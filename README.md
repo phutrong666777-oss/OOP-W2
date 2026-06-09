@@ -15,6 +15,9 @@ The project demonstrates fundamental OOP concepts through the implementation of 
 
 - Get information of student
 - Display information
+- Get name of student
+- Get grade of sudent
+- Get number phone of student
 
 ### ClassRoom (Question 2)
 
@@ -29,14 +32,17 @@ The project demonstrates fundamental OOP concepts through the implementation of 
 
 sourceW2/
 │   ├── Question1/
+|   |   ├──main.cpp
 │   │   ├── Q1.h
 │   │   └── Q1.cpp
 │   │
 │   ├── Question2/
 |       └──output
 |          └──LopHoc.txt
+|       ├──main.cpp
 │       ├── Q2.h
 │       └── Q2.cpp
+|       ├──student.cpp
 |       └──student.h
 |        
 |
